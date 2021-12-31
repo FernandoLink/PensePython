@@ -1,0 +1,18 @@
+{
+    "nome": "Fernando Link",
+    "idade": 51,
+    "motivado": true,
+    "exarray": [1, 1.3, "teste", null, true],
+    "exobj": {
+        "exbool": false,
+        "exnull": null,
+        "exnumb": 0.45
+    },
+    "exarobj": [{
+        "obj1": "value1",
+        "obj2": "value2"
+    }, {
+        "obj3": "value3",
+        "obj4": "value4"
+    }]
+}
